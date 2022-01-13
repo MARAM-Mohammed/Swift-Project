@@ -2,10 +2,10 @@
 # Swift Bootcamp Final Project
 ---
 ## App description :
-# A social Networking application that allows you to register a user , add a post , delete a post and replay to other posts.
+#### A social Networking application that allows you to register a user , add a post , delete a post and replay to other posts.
 
 ## DummyAPI : https://dummyapi.io 
-# use API Service full of dummy fake data
+#### use API Service full of dummy fake data
 Data sandbox API for playing around with real users and post data.
 ## App Logo 
 [![Logo2-1.png](https://i.postimg.cc/0QhRjyLd/Logo2-1.png)](https://postimg.cc/CBC66SMz)
