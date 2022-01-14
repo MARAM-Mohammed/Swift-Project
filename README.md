@@ -10,7 +10,7 @@ Data sandbox API for playing around with real users and post data.
 ## App Logo 
 [![Logo2-1.png](https://i.postimg.cc/0QhRjyLd/Logo2-1.png)](https://postimg.cc/CBC66SMz)
 
-## application of LunchScreen 
+## LunchScreen 
 [![Screen-Shot-1443-06-10-at-4-24-49-PM.png](https://i.postimg.cc/281Q88j3/Screen-Shot-1443-06-10-at-4-24-49-PM.png)](https://postimg.cc/F7QdTvLQ)
 ---
 
