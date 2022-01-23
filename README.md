@@ -18,6 +18,7 @@ Data sandbox API for playing around with real users and post data.
 [![Screen-Shot-1443-06-20-at-2-56-52-PM.png](https://i.postimg.cc/2y3yfk5H/Screen-Shot-1443-06-20-at-2-56-52-PM.png)](https://postimg.cc/1VhsGZw6)
 [![Screen-Shot-1443-06-20-at-3-26-45-PM.png](https://i.postimg.cc/rmdVshSj/Screen-Shot-1443-06-20-at-3-26-45-PM.png)](https://postimg.cc/Kk2SsDp3)
 [![Screen-Shot-1443-06-20-at-3-27-25-PM.png](https://i.postimg.cc/50FJbXVk/Screen-Shot-1443-06-20-at-3-27-25-PM.png)](https://postimg.cc/KkFw5v4n)
+[![Screen-Shot-1443-06-20-at-2-56-06-PM.png](https://i.postimg.cc/wTgHJTzn/Screen-Shot-1443-06-20-at-2-56-06-PM.png)](https://postimg.cc/4nLrRGm1)
 
 ---
 
@@ -45,7 +46,6 @@ URL : https://github.com/ninjaprox/NVActivityIndicatorView
 [![Screen-Shot-1443-06-20-at-3-35-00-PM.png](https://i.postimg.cc/NjgHNHqt/Screen-Shot-1443-06-20-at-3-35-00-PM.png)](https://postimg.cc/3dcNNWxf)
 [![Screen-Shot-1443-06-10-at-5-06-11-PM.png](https://i.postimg.cc/1zLydBJK/Screen-Shot-1443-06-10-at-5-06-11-PM.png)](https://postimg.cc/jW4VwHVW)
 [![Screen-Shot-1443-06-20-at-3-39-49-PM.png](https://i.postimg.cc/bw7d7D4d/Screen-Shot-1443-06-20-at-3-39-49-PM.png)](https://postimg.cc/jDhsN5xr)
-[![Screen-Shot-1443-06-20-at-3-44-19-PM.png](https://i.postimg.cc/pdvk2TFX/Screen-Shot-1443-06-20-at-3-44-19-PM.png)](https://postimg.cc/SnZcdmdw)
 
 ### 4- TextFieldEffects
 
