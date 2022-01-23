@@ -48,8 +48,7 @@ URL : https://github.com/ninjaprox/NVActivityIndicatorView
 ### 4- TextFieldEffects
 
 #### URL : https://github.com/raulriera/TextFieldEffects
-[![Screen-Shot-1443-06-10-at-5-11-52-PM.png](https://i.postimg.cc/L6qN9VTP/Screen-Shot-1443-06-10-at-5-11-52-PM.png)](https://postimg.cc/SJhWVCHQ)
-
+[![Screen-Shot-1443-06-20-at-3-31-17-PM.png](https://i.postimg.cc/7ZpXjhKL/Screen-Shot-1443-06-20-at-3-31-17-PM.png)](https://postimg.cc/FYVjLr5t)
 
 ### 5- QKeyboardManager
 
