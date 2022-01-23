@@ -45,6 +45,7 @@ URL : https://github.com/ninjaprox/NVActivityIndicatorView
 [![Screen-Shot-1443-06-20-at-3-35-00-PM.png](https://i.postimg.cc/NjgHNHqt/Screen-Shot-1443-06-20-at-3-35-00-PM.png)](https://postimg.cc/3dcNNWxf)
 [![Screen-Shot-1443-06-10-at-5-06-11-PM.png](https://i.postimg.cc/1zLydBJK/Screen-Shot-1443-06-10-at-5-06-11-PM.png)](https://postimg.cc/jW4VwHVW)
 [![Screen-Shot-1443-06-20-at-3-39-49-PM.png](https://i.postimg.cc/bw7d7D4d/Screen-Shot-1443-06-20-at-3-39-49-PM.png)](https://postimg.cc/jDhsN5xr)
+[![Screen-Shot-1443-06-20-at-3-44-19-PM.png](https://i.postimg.cc/pdvk2TFX/Screen-Shot-1443-06-20-at-3-44-19-PM.png)](https://postimg.cc/SnZcdmdw)
 
 ### 4- TextFieldEffects
 
