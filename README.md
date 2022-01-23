@@ -1,5 +1,5 @@
-# Swift-Project
-# Swift Bootcamp Final Project
+# Swift-Project-Tuwaiq1000
+# Swift Bootcamp Final Project - Tuwaiq Academy 
 ---
 ## App description :
 #### A social media application that allow you to create a user , add a post , delete a post and write comment to other users posts.
