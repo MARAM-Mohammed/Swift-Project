@@ -6,8 +6,8 @@
 #### A social media application that allow you to create a user , add a post , delete a post and write comment to other users posts.
 
 ## DummyAPI : https://dummyapi.io 
-#### use API Service full of dummy fake data
-Data sandbox API for playing around with real users and post data.
+#### Use API Service full of dummy fake data .
+
 ## App Logo 
 [![Logo2-1.png](https://i.postimg.cc/0QhRjyLd/Logo2-1.png)](https://postimg.cc/CBC66SMz)
 
