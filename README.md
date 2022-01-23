@@ -13,7 +13,9 @@ Data sandbox API for playing around with real users and post data.
 ## LunchScreen 
 [![Screen-Shot-1443-06-10-at-4-24-49-PM.png](https://i.postimg.cc/281Q88j3/Screen-Shot-1443-06-10-at-4-24-49-PM.png)](https://postimg.cc/F7QdTvLQ)
 ---
-
+[![Screen-Shot-1443-06-20-at-2-56-52-PM.png](https://i.postimg.cc/2y3yfk5H/Screen-Shot-1443-06-20-at-2-56-52-PM.png)](https://postimg.cc/1VhsGZw6)
+[![Screen-Shot-1443-06-20-at-2-56-06-PM.png](https://i.postimg.cc/wTgHJTzn/Screen-Shot-1443-06-20-at-2-56-06-PM.png)](https://postimg.cc/4nLrRGm1)
+---
 ## Libraries used in the application 
 ### 1- SwiftyJSON & Alamofire
 #### URL : https://github.com/SwiftyJSON/SwiftyJSON
